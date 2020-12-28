@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a Frontend Developer working in Ankara, Turkey.
+
+- 🏢 I'm currently working at adesso Turkey
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Open Source Javascript and React projects
+- 🤔 I’m looking for help with React Native
+- 💬 Ask me about Javascript, React
+- 📫 How to reach me: yfkoca@yandex.com
+- 😄 Pronouns: He/Him
+
 <!--
 **yusufkoca/yusufkoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
