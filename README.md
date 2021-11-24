@@ -2,10 +2,9 @@
 
 I'm a Frontend Developer working in Ankara, Turkey.
 
-- 🏢 I'm currently working at adesso Turkey
+- 🏢 I'm currently working at Socio
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Open Source Javascript and React projects
-- 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript, React
 - 📫 How to reach me: yfkoca@yandex.com
 - 😄 Pronouns: He/Him
