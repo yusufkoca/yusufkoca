@@ -1,25 +1,4 @@
 ### Hi there 👋
 
-I'm a Frontend Developer working in Ankara, Turkey.
-
-- 🏢 I'm currently working at Socio
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Open Source Javascript and React projects
-- 💬 Ask me about Javascript, React
-- 📫 How to reach me: yfkoca@yandex.com
-- 😄 Pronouns: He/Him
-
-<!--
-**yusufkoca/yusufkoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer currently working for Cisco Webex. 
+Developing web applications with React and Typescript.
